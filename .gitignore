@@ -1,7 +1,6 @@
 .ipynb_checkpoints/
 
-stage1_train/
-stage1_test/
+input/
 
 *.pyc
 .DS_Store
